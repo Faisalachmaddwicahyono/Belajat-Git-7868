@@ -13,6 +13,7 @@
 	//print '<pre>';
 	//print_r($data);
 	//print '</pre>';
+	//selesai';
 ?>
 <html>
 <table border="2">
